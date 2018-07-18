@@ -1,3 +1,3 @@
 def speak_to_grandma(phrase)
-  !phrase.upcase? 
+  !phrase.upcase
 end
